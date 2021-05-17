@@ -1,1 +1,7 @@
+Teknikrapport Cube Jump Ludvig 200S
+
+I detta projekt har jag utvecklat ett spel i Unity vid namn Cube Jump. Spelet går ut på att du ska hoppa mellan plattformar och ta dig så högt det går, det finns olika typer utav plattformar; vissa som går sönder efter ett hopp, andra som rör sig i sidledes och till sist plattformar som är oförstörbara. 
+Du får poäng beroende på hur högt du kommer, en plattform är ca 2 poäng i höjd. Det som är speciellt med just detta spel är hur otroligt beroende det är. Cube Jump är designat för att spelas på telefoner och som vi alla vet så är spel på mobilen otroligt bra på att få tiden att flyga, och Cube Jump är inget undantag! 
+
+Jag använde mig utav Unity för att utveckla spelet och detta tyckte jag gick otroligt bra. Unity är otroligt optimerad för denna typ utav utveckling och underlätta processen med ett väldigt enkelt UI och miljö för att utveckla bra och förlitliga applikationer. Spelet byggs runt olika sprites och C# kod. Dessa fungerar otroligt bra med varandra och det som är så imponerande med kod är att bara din fantasi kan sätta gränserna.  
 

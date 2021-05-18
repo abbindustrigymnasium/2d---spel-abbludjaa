@@ -2,6 +2,10 @@ Teknikrapport Cube Jump Ludvig 200S
 
 I detta projekt har jag utvecklat ett spel i Unity vid namn Cube Jump. Spelet går ut på att du ska hoppa mellan plattformar och ta dig så högt det går, det finns olika typer utav plattformar; vissa som går sönder efter ett hopp, andra som rör sig i sidledes och till sist plattformar som är oförstörbara. 
 Du får poäng beroende på hur högt du kommer, en plattform är ca 2 poäng i höjd. Det som är speciellt med just detta spel är hur otroligt beroende det är. Cube Jump är designat för att spelas på telefoner och som vi alla vet så är spel på mobilen otroligt bra på att få tiden att flyga, och Cube Jump är inget undantag! 
-
-Jag använde mig utav Unity för att utveckla spelet och detta tyckte jag gick otroligt bra. Unity är otroligt optimerad för denna typ utav utveckling och underlätta processen med ett väldigt enkelt UI och miljö för att utveckla bra och förlitliga applikationer. Spelet byggs runt olika sprites och C# kod. Dessa fungerar otroligt bra med varandra och det som är så imponerande med kod är att bara din fantasi kan sätta gränserna.  
+Jag använde mig utav Unity för att utveckla spelet och detta tyckte jag gick otroligt bra. Unity är otroligt optimerad för denna typ utav utveckling och underlätta processen med ett väldigt enkelt UI och miljö för att utveckla bra och förlitliga applikationer. Spelet byggs runt olika sprites och C# kod. Dessa fungerar otroligt bra med varandra och det som är så imponerande med kod, är att bara din fantasi kan sätta gränserna med vad funktionerna i spelet ska vara!
+Resultatet blev bättre än väntat i och med att Unity var så begripligt och kraftfullt att använda. Tyckte även om C# och sättet att använda det, men det som gjorde detta projekt bättre än förväntat är hur pass bra features som fanns implementerade i Unity’s system. 
+Det svåra med detta projekt var auto-genereringen utav plattformarna, kikade på Joakim’s video och fick idéer på hur jag skulle lösa problemen, och till sist blev det helt perfekt och fungerar felfritt! 
+Detta spel var väldigt roligt på det sättet att det blev visuellt givande och man fick respons direkt på hur koden agera osv. Även att börja tänka på hur spel i allmänhet är uppbyggda och strukturerade tyckte jag var kul! 
+Projektet får av mig 5/5 hopp :)
+Ludvig Jaasund 200S 
 
